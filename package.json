@@ -2,7 +2,7 @@
   "name": "redux-fork",
   "description": "Redux effects support for non blocking async calls.",
   "repository": "git://github.com/redux-effects/fork.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
