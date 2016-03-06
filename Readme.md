@@ -10,7 +10,7 @@ Redux effects support for non blocking async calls.
 
 ## Installation
 
-    $ npm install fork
+    $ npm install redux-fork
 
 ## Usage
 
