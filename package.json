@@ -1,7 +1,7 @@
 {
-  "name": "redux-fork",
+  "name": "@flox/fork",
   "description": "Redux effects support for non blocking async calls.",
-  "repository": "git://github.com/redux-effects/fork.git",
+  "repository": "git://github.com/floxjs/fork.git",
   "version": "0.1.1",
   "license": "MIT",
   "main": "lib/index.js",
