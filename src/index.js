@@ -11,9 +11,9 @@ import isFunction from '@f/is-function'
  * Channel
  */
 
-const FORK = 'redux-fork/FORK'
-const JOIN = 'redux-fork/JOIN'
-const CANCEL = 'redux-fork/CANCEL'
+const FORK = '@flox/fork/FORK'
+const JOIN = '@flox/fork/JOIN'
+const CANCEL = '@flox/fork/CANCEL'
 
 /**
  * fork
