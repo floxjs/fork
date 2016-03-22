@@ -80,10 +80,10 @@ Cancels task
 
 MIT
 
-[travis-image]: https://img.shields.io/travis/redux-effects/fork.svg?style=flat-square
-[travis-url]: https://travis-ci.org/redux-effects/fork
-[git-image]: https://img.shields.io/github/tag/redux-effects/fork.svg?style=flat-square
-[git-url]: https://github.com/redux-effects/fork
+[travis-image]: https://img.shields.io/travis/floxjs/fork.svg?style=flat-square
+[travis-url]: https://travis-ci.org/floxjs/fork
+[git-image]: https://img.shields.io/github/tag/floxjs/fork.svg?style=flat-square
+[git-url]: https://github.com/floxjs/fork
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: https://github.com/feross/standard
 [npm-image]: https://img.shields.io/npm/v/fork.svg?style=flat-square
