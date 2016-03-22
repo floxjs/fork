@@ -10,12 +10,12 @@ Redux effects support for non blocking async calls.
 
 ## Installation
 
-    $ npm install redux-fork
+    $ npm install @floxjs/fork
 
 ## Usage
 
 ```js
-import forkEffect, {fork, join} from 'redux-fork'
+import forkEffect, {fork, join} from '@floxjs/fork'
 
 const store = applyMiddleware(flo(), forkEffect)(createStore)(reducer, {})
 
@@ -86,5 +86,5 @@ MIT
 [git-url]: https://github.com/floxjs/fork
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/fork.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/fork
+[npm-image]: https://img.shields.io/npm/v/@floxjs/fork.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@floxjs/fork
